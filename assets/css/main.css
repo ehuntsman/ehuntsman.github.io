@@ -3134,3 +3134,10 @@
 		display: inline-block;
 		margin: 0 15px;
 	}
+
+	.wtx-port img, .luna-port img, .stasis-port img {
+		width: 48%;
+		display: inline-block;
+		margin: auto;
+		vertical-align: top;
+	}
